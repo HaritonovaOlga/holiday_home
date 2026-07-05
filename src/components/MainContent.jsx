@@ -9,7 +9,7 @@ function MainContent() {
     <main>
       <DescriptionSection />
       <MapSection />
-      <PhoneButton phone="+79991234567" />
+      <PhoneButton phone="+79308767397" />
       <GallerySection />
     </main>
   );
