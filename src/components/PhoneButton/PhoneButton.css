@@ -1,0 +1,14 @@
+.phone-button-section {
+  padding: 16px;
+}
+
+.phone-link {
+  display: inline-block;
+  padding: 16px 24px;
+  font-size: 18px;
+  text-align: center;
+  color: #fff;
+  background-color: #10b981;
+  text-decoration: none;
+  border-radius: 8px;
+}
