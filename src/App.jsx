@@ -18,7 +18,7 @@ function loadData() {
 function App() {
   return (
     <div>
-      <Header title="Дом и дорога" />
+      <Header title="Продажа дома под Рязанью" />
       <MainContent />
       <Footer />
     </div>
